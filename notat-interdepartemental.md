@@ -4,7 +4,7 @@
 
 Offentlig sektor er i dag sterkt avhengig av et fåtall store, internasjonale programvareleverandører. Denne avhengigheten skaper leverandørinnlåsing, geopolitisk sårbarhet og begrenset handlingsrom. Flere europeiske land (Sveits, Frankrike, Tyskland, Italia, Nederland) og EU-kommisjonen har allerede iverksatt strategier for åpen kildekode i offentlig sektor for å møte disse utfordringene.
 
-Arkitektur- og standardiseringsrådet (ASR) behandlet saken i oktober 2024 og anbefaler en nasjonal, samordnet innsats bygget på tre pilarer:
+Arkitektur- og standardiseringsrådet (ASR) behandlet saken i oktober 2024, noe som førte til at DigDir satte ned en arbeidsgruppe som ser på tre tema:
 
 ## 1. Bruke: Åpen kildekode som foretrukket valg
 
