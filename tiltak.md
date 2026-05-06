@@ -2,7 +2,7 @@
 
 ## Bakgrunn
 
-De åpenbare tiltakene for å støtte åpen kode er å bidra med penger og kode. Dette er ikke nødvendigvis "rett fram" å få til for oss innenfor rammene som lovverk og forskrifter setter. Vi har jo f.eks. i løpet av denne prosessenn lært at det å opprette økonomiske tilskuddsordninger er en veldig omfattende prosess som krever behandling på regjeringsnivå. Vi vil i dette dokumentet derfor forsøke å peke på andre konkrete tiltak som støtter åpen kode og utviklerne som lager den, men på måter som ikke krever så mye prosess.
+De åpenbare tiltakene for å støtte åpen kode er å bidra med penger og kode. Dette er ikke nødvendigvis "rett fram" å få til for oss innenfor rammene som lovverk og forskrifter setter. Vi har jo f.eks. i løpet av denne prosessenn lært at det å opprette økonomiske tilskuddsordninger er en veldig omfattende prosess med tidkrevende behandling på høyt politisk nivå. Vi vil i dette dokumentet derfor forsøke å peke på andre konkrete tiltak som støtter åpen kode og utviklerne som lager den, men på måter som ikke krever så mye prosess.
 
 ## Hosting
 
